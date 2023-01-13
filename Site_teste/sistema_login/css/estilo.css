@@ -5,10 +5,14 @@ body{
 
     font-family: 'Poppins', sans-serif;
     min-height: 100vh;
-    background: linear-gradient(to right, #333399, #ff00cc);
+    background: linear-gradient(to right, #08d4ca, #d9ff00);
     display: flex;
     align-items: center;
     justify-content: center;
+
+
+
+
 
 }
 .cartao-login{
@@ -21,7 +25,7 @@ body{
 }
 .cartao-login::before{
     content: '';
-    position: absolute;
+    position: absolute;     
     background: rgba(255, 255, 255, .15);
     inset: 0;
     transform: rotate(-5deg);
