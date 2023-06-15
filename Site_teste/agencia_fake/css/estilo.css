@@ -10,7 +10,7 @@ body{
 
 .navbar{
     display: flex;
-    flex-flow: row wrap;
+    flex-flow:column;
     height:100px;
     justify-content: center;
 }
