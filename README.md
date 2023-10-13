@@ -14,3 +14,6 @@ https://mohammadfaizalabdul.github.io/Sites/Site_teste/Gest%C3%A3o%20de%20stock/
 
 Advinha o número
 https://mohammadfaizalabdul.github.io/Sites/Site_teste/Advinha_o_numero/index.html
+
+Pequeno Jogo
+https://mohammadfaizalabdul.github.io/Sites/Site_teste/Jogo/index.html
